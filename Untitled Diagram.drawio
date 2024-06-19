@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T19:16:30.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.5" etag="l7kLowun6gEfIRZzDFnZ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T21:00:15.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JkfB4Zvn_Or2Re511A5Z" version="24.5.5" type="github">
   <diagram name="Page-1" id="1maLSIkoFB1FkpPEDe_U">
-    <mxGraphModel>
+    <mxGraphModel dx="958" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sZHYu3OUNfULgV6VMz3G-1" value="ingredients&lt;div&gt;&lt;ul&gt;&lt;li&gt;Name&lt;/li&gt;&lt;li&gt;Quantity&lt;/li&gt;&lt;li&gt;Price per unit&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Donuts&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Donut Name&lt;/li&gt;&lt;li&gt;Gluten free(Y/N)&lt;/li&gt;&lt;li&gt;Price&lt;/li&gt;&lt;li&gt;ingredients used&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Orders&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Order no&lt;/li&gt;&lt;li&gt;donuts purchased&lt;/li&gt;&lt;li&gt;Customer&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Customers&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Fname&lt;/li&gt;&lt;li&gt;Lname&lt;/li&gt;&lt;li&gt;Order history&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;container=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="160" y="160" width="150" height="520" as="geometry">
+            <mxRectangle x="20" y="20" width="500" height="500" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
