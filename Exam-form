@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1>Ifelodun Nursery and Primary School</h1>
+        <p>2024/2025 Final Examination: 3rd Term</p>
+        <p>Read the instruction below</p>
+        <ul>
+            <li>Read instruction carefully</li>
+            <li>Do not standup</li>
+            <li>Do not make noise</li>
+        </ul>
+    </div>
+<!-- exam question form -->
+    <form>
+        <!-- enter name and class id -->
+        <div>
+            <h3>Enter Your FullName and Class Id</h3>
+            <label for="name">Enter Your FullName</label>
+            <input type="text" name="name" id="name" required>
+   
+            <label for="classid"> Class Id</label>
+            <input type="text" name="classId" id="classid" required>
+
+            <label for="year"> Class Year </label>
+            <select id="year" name="classyear" required>
+                <option></option>
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+                <option value="2024">2024</option>
+                <option value="2025">2025</option>
+            </select>
+        </div>
+
+        <!-- Question 1 -->
+        <h2> Questions </h2>  
+
+        <div>
+            <h3>How many continents do we have in the world</h3>
+
+            <input type="radio" id="4" name="continents" value="4">
+            <label for="4">4</label>
+            
+            <input type="radio" id="5" name="continents" value="5">
+            <label for="5">5</label>
+
+            <input type="radio" id="6" name="continents" value="6">
+            <label for="6">6</label>
+
+            <input type="radio" id="7" name="continents" value="7">
+            <label for="7">7</label>
+        </div>
+
+        <!-- Question 2 -->
+        <div>
+            <h3>Select two states in Nigeria</h3>
+
+            <input type="checkbox" id="lagos" Name="statesNG" value="Lagos">
+            <label for="lagos"> Lagos </label>
+
+            <input type="checkbox" id="kano" name="statesNG" value="Kano">
+            <label for="kano"> Kano </label>
+
+            <input type="checkbox" id="ny" name="statesNG" value="New York">
+            <label for="ny"> New York </label>
+
+            <input type="checkbox" id="de" name="statesNG" value="Delaware">
+            <label for="de">Delaware</label>
+        </div>
+
+        <div style="margin-top: 10px;">
+            <button type="submit"> Complete Exam </button>
+            <button type="reset"> Reset Exam </button>
+        </div>
+
+    </form>
+</body>
+</html>
